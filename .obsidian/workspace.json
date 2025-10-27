@@ -11,26 +11,14 @@
             "id": "805a3beaa5bf0d27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🌱 Primeros pasos en Node.js.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          }
-        ]
-      },
-      {
-        "id": "09bcd9661aafdee8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "90cd85cefaef614c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "🌱 Primeros pasos en Node.js"
             }
           }
         ]
@@ -90,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2dfe7c13eda9c31f",
@@ -106,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🌱 Primeros pasos en Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de 🌱 Primeros pasos en Node.js"
             }
           },
           {
@@ -159,13 +148,23 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "fec2fa6caaf89efe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,11 +174,16 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "805a3beaa5bf0d27",
   "lastOpenFiles": [
+    "🌱 Primeros pasos en Node.js.md",
+    "Sin título 1.base",
+    "Sin título.base",
+    "Node",
     "README.md",
     "Bienvenido.md"
   ]
