@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌱 Primeros pasos en Node.js.md",
+                "file": "Node/Node.js for Beginners/02. Configuración del entorno de desarrollo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌱 Primeros pasos en Node.js"
+              "title": "02. Configuración del entorno de desarrollo"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "2dfe7c13eda9c31f",
@@ -180,7 +181,14 @@
   },
   "active": "805a3beaa5bf0d27",
   "lastOpenFiles": [
-    "🌱 Primeros pasos en Node.js.md",
+    "Node/Node.js for Beginners/00. Introducción.md",
+    "Node/Node.js for Beginners/02. Configuración del entorno de desarrollo.md",
+    "Node/Node.js for Beginners/01. Introducción a Node.js.md",
+    "Node/Node.js for Beginners/other",
+    "Node/Node.js for Beginners/other/Pasted image 20251029221926.png",
+    "Node/midudev/🌱 Primeros pasos en Node.js.md",
+    "Node/midudev",
+    "Node/Node.js for Beginners",
     "Sin título 1.base",
     "Sin título.base",
     "Node",

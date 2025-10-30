@@ -1,7 +1,7 @@
-**Node.js es un entorno que permite ejecutar código JavaScript fuera del navegador**. Puedes ejecutar en una computadora, servidor, incluso en una Raspberry Pi.
+==Node.js es un entorno que permite ejecutar código JavaScript fuera del navegador==. Puedes ejecutar en una computadora, servidor, incluso en una Raspberry Pi.
 
 Está construido sobre V8, el mismo motor que usa Chrome, así que es rápido, eficiente y muy potente.
-## Variables globales: ¿dónde vive mi código?
+# Variables globales: ¿dónde vive mi código?
 
 Cuando escribes código en el navegador, todo vive dentro de un objeto llamado `window`, pero en Node.js no existe `window` en su lugar existe un objeto llamado `global`.
 
@@ -399,7 +399,7 @@ const port = process.env.PORT ?? 3000;
 const modo = process.env.NODE_ENV ?? 'development';
 ```
 
-**Cómo definirlas**
+**Cómo definirlas:**
 ```bash
 PORT=4000 NODE_ENV=production node 09.http.js
 ```
@@ -411,7 +411,7 @@ $env:PORT=4000; $env:NODE_ENV="production"; node 09.http.js
 ```cmd
 set PORT=4000 && set NODE_ENV=production && node 09.http.js
 ```
-### Archivos `.env` (opcional, pero muy común)
+### **Archivos `.env` (opcional, pero muy común)**
 
 Para no escribir variables cada vez, puedes usar un archivo `.env` (con ayuda de librerías como `dotenv`):
 ```env
