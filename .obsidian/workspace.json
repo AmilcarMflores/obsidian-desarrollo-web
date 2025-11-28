@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "react/react_and_react_native/00. Preámbulo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "00. Preámbulo"
             }
           }
         ]
@@ -178,14 +178,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fec2fa6caaf89efe",
+  "active": "1def35a19de59896",
   "lastOpenFiles": [
+    "react/react_desde_cero_por_jab",
+    "github/Llave SSH.md",
     "Documento de Diseño de Juego (GDD) -\"El Infierno de Plata\".md",
+    "Tarea 1.md",
+    "Tarea 4.md",
+    "Tarea 2.md",
+    "Tarea 3.md",
+    "README.md",
     "github/others/Pasted image 20251124115220.png",
     "github/others",
-    "github/Llave SSH.md",
     "github",
-    "README.md",
     "proyectos",
     "react/react_and_react_native/00. Preámbulo.md",
     "javascript/javascript_from_beginner_to_professional/12. JavaScript intermedio.md",
@@ -219,10 +224,6 @@
     "html_css/practical_html_css/other/Pasted image 20250831184637.png",
     "html_css/practical_html_css/other/Pasted image 20250831183516.png",
     "html_css/practical_html_css/06. Temas, color y técnicas de pulido.md",
-    "html_css/practical_html_css/05. Añadiendo animación a páginas web.md",
-    "html_css/practical_html_css/04. Creando y estilando formularios.md",
-    "html_css/practical_html_css/03. Estilo de texto y tipografía.md",
-    "html_css/practical_html_css/02. Estructura y diseño.md",
     "html_css/practical_html_css/other/cheat_sheet_flexbox_grid.pdf",
     "html_css/practical_html_css/other"
   ]
