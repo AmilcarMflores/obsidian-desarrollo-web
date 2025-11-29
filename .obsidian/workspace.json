@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a033b5f2fa3c8752",
+        "id": "8d96dd154dbf8c92",
         "type": "tabs",
         "children": [
           {
-            "id": "1def35a19de59896",
+            "id": "beffe5370ae03b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/react_and_react_native/00. Preámbulo.md",
+                "file": "react/react_desde_cero_por_jab/Introducción a React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. Preámbulo"
+              "title": "Introducción a React"
             }
           }
         ]
@@ -178,8 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1def35a19de59896",
+  "active": "6a43662198f29205",
   "lastOpenFiles": [
+    "react/react_and_react_native/01. ¿Por qué React?.md",
+    "react/react_and_react_native/other",
+    "react/react_and_react_native/other/Pasted image 20250916155016.png",
+    "react/react_and_react_native/00. Preámbulo.md",
+    "react/react_desde_cero_por_jab/Introducción a React.md",
     "react/react_desde_cero_por_jab",
     "github/Llave SSH.md",
     "Documento de Diseño de Juego (GDD) -\"El Infierno de Plata\".md",
@@ -192,7 +197,6 @@
     "github/others",
     "github",
     "proyectos",
-    "react/react_and_react_native/00. Preámbulo.md",
     "javascript/javascript_from_beginner_to_professional/12. JavaScript intermedio.md",
     "react/react_and_react_native",
     "react",
@@ -219,12 +223,7 @@
     "html_css/practical_html_css/other/Pasted image 20250907160015.png",
     "html_css/practical_html_css/other/Pasted image 20250907155836.png",
     "html_css/practical_html_css/08. Diseño web responsivo y media queries.md",
-    "html_css/practical_html_css/01. Introducción a HTML y CSS.md",
     "html_css/practical_html_css/other/Pasted image 20250831210323.png",
-    "html_css/practical_html_css/other/Pasted image 20250831184637.png",
-    "html_css/practical_html_css/other/Pasted image 20250831183516.png",
-    "html_css/practical_html_css/06. Temas, color y técnicas de pulido.md",
-    "html_css/practical_html_css/other/cheat_sheet_flexbox_grid.pdf",
-    "html_css/practical_html_css/other"
+    "html_css/practical_html_css/other/Pasted image 20250831184637.png"
   ]
 }
