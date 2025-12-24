@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fcd5f52f30fca7cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript/dom/01. ¿Qué es el DOM?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. ¿Qué es el DOM?"
+            }
+          },
+          {
             "id": "beffe5370ae03b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/react_desde_cero_por_jab/Introducción a React.md",
+                "file": "javascript/dom/03. Selectores del DOM (Recuperando elementos).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción a React"
+              "title": "03. Selectores del DOM (Recuperando elementos)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,52 +193,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a43662198f29205",
+  "active": "beffe5370ae03b06",
   "lastOpenFiles": [
-    "react/react_and_react_native/01. ¿Por qué React?.md",
-    "react/react_and_react_native/other",
-    "react/react_and_react_native/other/Pasted image 20250916155016.png",
-    "react/react_and_react_native/00. Preámbulo.md",
-    "react/react_desde_cero_por_jab/Introducción a React.md",
-    "react/react_desde_cero_por_jab",
-    "github/Llave SSH.md",
-    "Documento de Diseño de Juego (GDD) -\"El Infierno de Plata\".md",
-    "Tarea 1.md",
-    "Tarea 4.md",
-    "Tarea 2.md",
-    "Tarea 3.md",
-    "README.md",
-    "github/others/Pasted image 20251124115220.png",
-    "github/others",
-    "github",
-    "proyectos",
-    "javascript/javascript_from_beginner_to_professional/12. JavaScript intermedio.md",
-    "react/react_and_react_native",
-    "react",
-    "javascript/javascript_from_beginner_to_professional/11. Contenido interactivo y escuchadores de eventos.md",
-    "javascript/javascript_from_beginner_to_professional/10. Manipulación dinámica de elementos usando el DOM.md",
+    "javascript/dom/02. El objeto global y propiedades del documento.md",
+    "javascript/dom/03. Selectores del DOM (Recuperando elementos).md",
+    "javascript/dom/01. ¿Qué es el DOM?.md",
     "javascript/javascript_from_beginner_to_professional/09. The Document Object Model (DOM).md",
-    "javascript/javascript_from_beginner_to_professional/other",
-    "javascript/javascript_from_beginner_to_professional/other/Pasted image 20250929220456.png",
-    "javascript/javascript_from_beginner_to_professional/other/Pasted image 20250929112747.png",
+    "javascript/dom",
+    "Guía de estudio - Desarrollador Web Fullstack.md",
     "javascript/javascript_from_beginner_to_professional/06. Funciones.md",
+    "javascript/javascript_from_beginner_to_professional/10. Manipulación dinámica de elementos usando el DOM.md",
+    "javascript/javascript_from_beginner_to_professional/11. Contenido interactivo y escuchadores de eventos.md",
+    "javascript/javascript_from_beginner_to_professional/12. JavaScript intermedio.md",
     "javascript/javascript_from_beginner_to_professional/05. Bucles.md",
     "javascript/javascript_from_beginner_to_professional/04. Declaraciones lógicas.md",
     "javascript/javascript_from_beginner_to_professional/03. Valores múltiples de JavaScript.md",
+    "html_css/practical_html_css/09. Asegurando la accesibilidad.md",
     "javascript/javascript_from_beginner_to_professional/02. Fundamentos de JavaScript.md",
     "javascript/javascript_from_beginner_to_professional/01. Introducción a JavaScript.md",
     "javascript/javascript_from_beginner_to_professional/00. Preámbulo.md",
-    "html_css/practical_html_css/00. Preámbulo.md",
+    "html_css/practical_html_css/01. Introducción a HTML y CSS.md",
+    "html_css/practical_html_css/08. Diseño web responsivo y media queries.md",
     "html_css/practical_html_css/07. Entendiendo el rendimiento de una página web.md",
-    "javascript/javascript_from_beginner_to_professional",
-    "javascript",
-    "html_css/practical_html_css/09. Asegurando la accesibilidad.md",
+    "html_css/practical_html_css/06. Temas, color y técnicas de pulido.md",
+    "html_css/practical_html_css/05. Añadiendo animación a páginas web.md",
+    "html_css/practical_html_css/04. Creando y estilando formularios.md",
+    "html_css/animations/animaciones_by_midudev",
+    "html_css/animations/aprendiendo_animaciones_by_manzdev",
+    "html_css/animations",
+    "html_css/practical_html_css/02. Estructura y diseño.md",
+    "html_css/practical_html_css/03. Estilo de texto y tipografía.md",
+    "html_css/practical_html_css/other/Pasted image 20251021193757.png",
     "html_css/practical_html_css/other/Pasted image 20250907233630.png",
     "html_css/practical_html_css/other/Pasted image 20250907220018.png",
     "html_css/practical_html_css/other/Pasted image 20250907160015.png",
     "html_css/practical_html_css/other/Pasted image 20250907155836.png",
-    "html_css/practical_html_css/08. Diseño web responsivo y media queries.md",
     "html_css/practical_html_css/other/Pasted image 20250831210323.png",
-    "html_css/practical_html_css/other/Pasted image 20250831184637.png"
+    "html_css/practical_html_css/other/Pasted image 20250831183516.png",
+    "html_css/practical_html_css/other/Pasted image 20250830211633.png",
+    "html_css/practical_html_css/other/Pasted image 20250830212038.png",
+    "html_css/practical_html_css/other/Pasted image 20250830204611.png",
+    "html_css/practical_html_css/00. Preámbulo.md",
+    "html_css/practical_html_css/other/cheat_sheet_flexbox_grid.pdf",
+    "fundamentos/01. Estructura HTML.md",
+    "fundamentos",
+    "react/react_and_react_native/other",
+    "react/react_desde_cero_por_jab",
+    "github/others",
+    "github"
   ]
 }
