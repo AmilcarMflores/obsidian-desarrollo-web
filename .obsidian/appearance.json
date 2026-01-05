@@ -1,6 +1,8 @@
 {
-  "cssTheme": "HoverPopup",
+  "cssTheme": "Monokai Ristretto",
   "enabledCssSnippets": [
     "alinear-imagenes"
-  ]
+  ],
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
