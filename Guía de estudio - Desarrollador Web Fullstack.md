@@ -4,7 +4,7 @@
 
 - **HTML:** ~~Estructura semántica~~, ~~etiquetas~~, ~~formularios~~ y ~~accesibilidad (A11y)~~.
 - **CSS:** ~~Reglas básicas, cascada~~ y ~~**Responsive Design**~~.
-- **JavaScript:** ~~Variables~~, ~~funciones, objetos, arrays~~, manipulación del **DOM**, eventos y promesas.
+- **JavaScript:** ~~Variables~~, ~~funciones, objetos, arrays~~, ~~manipulación del **DOM**~~, ~~eventos~~ y promesas.
 ### Herramientas y Despliegue
 
 - **Terminal/Consola:** Comandos básicos (`cd`, `ls`, `mkdir`), navegación y scripts.
