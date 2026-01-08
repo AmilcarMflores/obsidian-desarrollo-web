@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/dom/17. Delegación de eventos (event delegation).md",
+                "file": "javascript/asynchrony/04. Fetch API (Peticiones HTTP Modernas).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Delegación de eventos (event delegation)"
+              "title": "04. Fetch API (Peticiones HTTP Modernas)"
             }
           }
         ],
@@ -196,8 +196,13 @@
   },
   "active": "fcd5f52f30fca7cd",
   "lastOpenFiles": [
-    "Guía de estudio - Desarrollador Web Fullstack.md",
+    "javascript/asynchrony/02. Promesas.md",
+    "javascript/asynchrony/04. Fetch API (Peticiones HTTP Modernas).md",
+    "javascript/asynchrony/03. Async - Await.md",
+    "javascript/asynchrony/01. Asincronía.md",
     "javascript/dom/17. Delegación de eventos (event delegation).md",
+    "javascript/asynchrony",
+    "Guía de estudio - Desarrollador Web Fullstack.md",
     "javascript/dom/16. Controlando el evento - StopPropagation & PreventDefault.md",
     "javascript/dom/15. Flujo de Eventos (Event Flow).md",
     "javascript/dom/14. Eventos con parámetros y remoción.md",
@@ -220,11 +225,7 @@
     "javascript/javascript_from_beginner_to_professional/11. Contenido interactivo y escuchadores de eventos.md",
     "javascript/javascript_from_beginner_to_professional/10. Manipulación dinámica de elementos usando el DOM.md",
     "javascript/javascript_from_beginner_to_professional/09. The Document Object Model (DOM).md",
-    "Documento de Diseño de Juego (GDD) -\"El Infierno de Plata\".md",
     "javascript/dom",
-    "javascript/javascript_from_beginner_to_professional/06. Funciones.md",
-    "javascript/javascript_from_beginner_to_professional/05. Bucles.md",
-    "javascript/javascript_from_beginner_to_professional/04. Declaraciones lógicas.md",
     "html_css/animations/animaciones_by_midudev",
     "html_css/animations/aprendiendo_animaciones_by_manzdev",
     "html_css/animations",
@@ -240,7 +241,6 @@
     "fundamentos",
     "react/react_and_react_native/other",
     "react/react_desde_cero_por_jab",
-    "github/others",
-    "github"
+    "github/others"
   ]
 }
