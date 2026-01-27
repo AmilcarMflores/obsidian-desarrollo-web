@@ -4,10 +4,10 @@
 
 - **HTML:** ~~Estructura semántica~~, ~~etiquetas~~, ~~formularios~~ y ~~accesibilidad (A11y)~~.
 - **CSS:** ~~Reglas básicas, cascada~~ y ~~**Responsive Design**~~.
-- **JavaScript:** ~~Variables~~, ~~funciones, objetos, arrays~~, ~~manipulación del **DOM**~~, ~~eventos~~ y promesas.
+- **JavaScript:** ~~Variables~~, ~~funciones, objetos, arrays~~, ~~manipulación del **DOM**~~, ~~eventos~~ y p~~romesas~~.
 ### Herramientas y Despliegue
 
-- **Terminal/Consola:** Comandos básicos (`cd`, `ls`, `mkdir`), navegación y scripts.
+- **Terminal/Consola:** ~~Comandos básicos (`cd`, `ls`, `mkdir`), navegación~~ y scripts.
 - **Git:** Control de versiones (imprescindible).
 - **Hosting y Dominio:** Conceptos de hosting compartido y despliegue de sitios.
 
@@ -55,10 +55,10 @@ _Aprende a crear el "cerebro" y el almacenamiento de la aplicación._
 - **Otros:** PHP (Laravel), Go, C# (.NET).
 ### 2. Bases de Datos
 
-|**Tipo**|**Tecnologías Recomendadas**|
-|---|---|
-|**SQL (Relacional)**|**PostgreSQL** (Estándar), MySQL, SQLite.|
-|**NoSQL (No relacional)**|**MongoDB**, Redis (Caché).|
+| **Tipo**                  | **Tecnologías Recomendadas**              |
+| ------------------------- | ----------------------------------------- |
+| **SQL (Relacional)**      | **PostgreSQL** (Estándar), MySQL, SQLite. |
+| **NoSQL (No relacional)** | **MongoDB**, Redis (Caché).               |
 ### 3. Comunicación & APIs
 
 - REST API (El estándar).

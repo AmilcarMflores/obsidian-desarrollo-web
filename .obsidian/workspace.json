@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guía de estudio - Desarrollador Web Fullstack.md",
+                "file": "git/02. Configuración inicial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guía de estudio - Desarrollador Web Fullstack"
-            }
-          },
-          {
-            "id": "fcd5f52f30fca7cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/asynchrony/04. Fetch API (Peticiones HTTP Modernas).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04. Fetch API (Peticiones HTTP Modernas)"
+              "title": "02. Configuración inicial"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,15 +179,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcd5f52f30fca7cd",
+  "active": "4abffe37ec3894f0",
   "lastOpenFiles": [
-    "javascript/asynchrony/02. Promesas.md",
+    "git/01. Contexto.md",
+    "git/02. Configuración inicial.md",
+    "README.md",
+    "git",
+    "Guía de estudio - Desarrollador Web Fullstack.md",
+    "Documento de Diseño de Juego (GDD) -\"El Infierno de Plata\".md",
+    "react/react_desde_cero_por_jab/Introducción a React.md",
+    "github/Llave SSH.md",
+    "github/images/Pasted image 20251124115220.png",
     "javascript/asynchrony/04. Fetch API (Peticiones HTTP Modernas).md",
-    "javascript/asynchrony/03. Async - Await.md",
     "javascript/asynchrony/01. Asincronía.md",
+    "javascript/asynchrony/03. Async - Await.md",
+    "javascript/asynchrony/02. Promesas.md",
     "javascript/dom/17. Delegación de eventos (event delegation).md",
     "javascript/asynchrony",
-    "Guía de estudio - Desarrollador Web Fullstack.md",
     "javascript/dom/16. Controlando el evento - StopPropagation & PreventDefault.md",
     "javascript/dom/15. Flujo de Eventos (Event Flow).md",
     "javascript/dom/14. Eventos con parámetros y remoción.md",
@@ -217,14 +210,8 @@
     "javascript/dom/05. Estilos y variables CSS (manipulación visual).md",
     "javascript/dom/04. Atributos y Data-Attributes.md",
     "javascript/dom/03. Selectores del DOM (Recuperando elementos).md",
-    "javascript/dom/02. El objeto global y propiedades del documento.md",
-    "javascript/dom/01. ¿Qué es el DOM?.md",
     "javascript/javascript_from_beginner_to_professional/other/Pasted image 20250929220456.png",
     "javascript/javascript_from_beginner_to_professional/other/Pasted image 20250929112747.png",
-    "javascript/javascript_from_beginner_to_professional/12. JavaScript intermedio.md",
-    "javascript/javascript_from_beginner_to_professional/11. Contenido interactivo y escuchadores de eventos.md",
-    "javascript/javascript_from_beginner_to_professional/10. Manipulación dinámica de elementos usando el DOM.md",
-    "javascript/javascript_from_beginner_to_professional/09. The Document Object Model (DOM).md",
     "javascript/dom",
     "html_css/animations/animaciones_by_midudev",
     "html_css/animations/aprendiendo_animaciones_by_manzdev",
@@ -236,11 +223,9 @@
     "html_css/practical_html_css/other/Pasted image 20250907155836.png",
     "html_css/practical_html_css/other/Pasted image 20250831210323.png",
     "html_css/practical_html_css/other/Pasted image 20250831183516.png",
-    "html_css/practical_html_css/other/Pasted image 20250830211633.png",
     "html_css/practical_html_css/other/cheat_sheet_flexbox_grid.pdf",
     "fundamentos",
     "react/react_and_react_native/other",
-    "react/react_desde_cero_por_jab",
-    "github/others"
+    "react/react_desde_cero_por_jab"
   ]
 }
