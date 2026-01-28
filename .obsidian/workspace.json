@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8d96dd154dbf8c92",
+        "id": "9265486ce7b29067",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/03. Primeros pasos.md",
+                "file": "git/04. Comandos útiles de Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Primeros pasos"
+              "title": "04. Comandos útiles de Git"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2dfe7c13eda9c31f",
@@ -180,8 +181,9 @@
   },
   "active": "4abffe37ec3894f0",
   "lastOpenFiles": [
-    "git/01. Contexto.md",
     "git/03. Primeros pasos.md",
+    "git/04. Comandos útiles de Git.md",
+    "git/01. Contexto.md",
     "git/02. Configuración inicial.md",
     "README.md",
     "git",
@@ -208,7 +210,6 @@
     "javascript/dom/08. Traversing - Recorriendo el DOM (Elementos).md",
     "javascript/dom/06. Manipulación de Clases (CSS Clases).md",
     "javascript/dom/05. Estilos y variables CSS (manipulación visual).md",
-    "javascript/dom/04. Atributos y Data-Attributes.md",
     "javascript/javascript_from_beginner_to_professional/other/Pasted image 20250929220456.png",
     "javascript/javascript_from_beginner_to_professional/other/Pasted image 20250929112747.png",
     "javascript/dom",
