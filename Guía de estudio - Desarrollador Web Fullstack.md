@@ -8,7 +8,7 @@
 ### Herramientas y Despliegue
 
 - **Terminal/Consola:** ~~Comandos básicos (`cd`, `ls`, `mkdir`), navegación~~ y scripts.
-- **Git:** Control de versiones (imprescindible).
+- **Git:** ~~Control de versiones (imprescindible)~~.
 - **Hosting y Dominio:** Conceptos de hosting compartido y despliegue de sitios.
 
 > [!IMPORTANT] **Regla de Oro:** En este nivel, **NO usar IA para generar código**. Úsala solo como tutor para explicar conceptos.

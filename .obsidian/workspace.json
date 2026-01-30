@@ -11,12 +11,14 @@
             "id": "4abffe37ec3894f0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "git/GitHub - Hoja de referencia.pdf"
+                "file": "Guía de estudio - Desarrollador Web Fullstack.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GitHub - Hoja de referencia"
+              "icon": "lucide-file",
+              "title": "Guía de estudio - Desarrollador Web Fullstack"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2dfe7c13eda9c31f",
@@ -179,8 +180,10 @@
   },
   "active": "4abffe37ec3894f0",
   "lastOpenFiles": [
-    "git/07. Ramificaciones en Git.md",
+    "github/Llave SSH.md",
+    "Documento de Diseño de Juego (GDD) -\"El Infierno de Plata\".md",
     "git/GitHub - Hoja de referencia.pdf",
+    "git/07. Ramificaciones en Git.md",
     "git/06. Etiquetas (tags) en Git.md",
     "git/05. Gestión de repositorios remotos.md",
     "git/04. Comandos útiles de Git.md",
@@ -190,9 +193,7 @@
     "README.md",
     "git",
     "Guía de estudio - Desarrollador Web Fullstack.md",
-    "Documento de Diseño de Juego (GDD) -\"El Infierno de Plata\".md",
     "react/react_desde_cero_por_jab/Introducción a React.md",
-    "github/Llave SSH.md",
     "github/images/Pasted image 20251124115220.png",
     "javascript/asynchrony/04. Fetch API (Peticiones HTTP Modernas).md",
     "javascript/asynchrony/01. Asincronía.md",
