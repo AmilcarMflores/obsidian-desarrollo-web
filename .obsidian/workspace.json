@@ -11,14 +11,12 @@
             "id": "4abffe37ec3894f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "git/04. Comandos útiles de Git.md",
-                "mode": "source",
-                "source": false
+                "file": "git/GitHub - Hoja de referencia.pdf"
               },
-              "icon": "lucide-file",
-              "title": "04. Comandos útiles de Git"
+              "icon": "lucide-file-text",
+              "title": "GitHub - Hoja de referencia"
             }
           }
         ]
@@ -181,8 +179,12 @@
   },
   "active": "4abffe37ec3894f0",
   "lastOpenFiles": [
-    "git/03. Primeros pasos.md",
+    "git/07. Ramificaciones en Git.md",
+    "git/GitHub - Hoja de referencia.pdf",
+    "git/06. Etiquetas (tags) en Git.md",
+    "git/05. Gestión de repositorios remotos.md",
     "git/04. Comandos útiles de Git.md",
+    "git/03. Primeros pasos.md",
     "git/01. Contexto.md",
     "git/02. Configuración inicial.md",
     "README.md",
@@ -206,10 +208,6 @@
     "javascript/dom/11. Modificando elementos (métodos tradicionales).md",
     "javascript/dom/10. Templates HTML.md",
     "javascript/dom/07. Inserción de Contenido - Texto y HTML.md",
-    "javascript/dom/09. Creación de Elementos y Fragmentos (Renderizado eficiente).md",
-    "javascript/dom/08. Traversing - Recorriendo el DOM (Elementos).md",
-    "javascript/dom/06. Manipulación de Clases (CSS Clases).md",
-    "javascript/dom/05. Estilos y variables CSS (manipulación visual).md",
     "javascript/javascript_from_beginner_to_professional/other/Pasted image 20250929220456.png",
     "javascript/javascript_from_beginner_to_professional/other/Pasted image 20250929112747.png",
     "javascript/dom",
@@ -225,7 +223,6 @@
     "html_css/practical_html_css/other/Pasted image 20250831183516.png",
     "html_css/practical_html_css/other/cheat_sheet_flexbox_grid.pdf",
     "fundamentos",
-    "react/react_and_react_native/other",
-    "react/react_desde_cero_por_jab"
+    "react/react_and_react_native/other"
   ]
 }
