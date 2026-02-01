@@ -13,7 +13,7 @@
 
 > [!IMPORTANT] **Regla de Oro:** En este nivel, **NO usar IA para generar código**. Úsala solo como tutor para explicar conceptos.
 
-## 📍 Nivel 2: Especialización (Elige tu camino)
+## Nivel 2: Especialización (Elige tu camino)
 
 ### 🎨 Camino A: Diseño Web (Visual & Estilos)
 
@@ -34,7 +34,7 @@ _Enfocado en hacer la web funcional y dinámica._
 - **Web APIs:** LocalStorage, Geolocation, WebSockets.
 - **Módulos:** Import/Export (ES Modules).
 
-## 📍 Nivel 3: Frontend Mastery (Frameworks)
+## Nivel 3: Frontend Mastery (Frameworks)
 
 _Aquí te conviertes en un **Desarrollador Frontend** capaz de crear SPAs (Single Page Applications)._
 
@@ -45,7 +45,7 @@ _Aquí te conviertes en un **Desarrollador Frontend** capaz de crear SPAs (Singl
     - Reactividad y Routing.
 - **Proyectos:** Paneles de control, dashboards y formularios avanzados.
 
-## 📍 Nivel 4: Backend & Datos
+## Nivel 4: Backend & Datos
 
 _Aprende a crear el "cerebro" y el almacenamiento de la aplicación._
 ### 1. Lenguajes y Entornos (Elegir uno)
@@ -65,7 +65,7 @@ _Aprende a crear el "cerebro" y el almacenamiento de la aplicación._
 - WebSockets (Tiempo real).
 - GraphQL / gRPC.
 
-## 📍 Nivel 5: Fullstack & Cloud
+## Nivel 5: Fullstack & Cloud
 
 _Integración total y servicios modernos._
 
