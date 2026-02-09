@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html_css/practical_html_css/11. Preprocesadores y herramientas para un desarrollo eficiente.md",
+                "file": "proyectos/dreams-factory/Datos de nueva vendedora.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Preprocesadores y herramientas para un desarrollo eficiente"
+              "title": "Datos de nueva vendedora"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2dfe7c13eda9c31f",
@@ -181,8 +180,13 @@
   },
   "active": "c3ad6d43145731a3",
   "lastOpenFiles": [
-    "Guía de estudio - Desarrollador Web Fullstack.md",
     "html_css/practical_html_css/11. Preprocesadores y herramientas para un desarrollo eficiente.md",
+    "proyectos/dreams-factory/Datos de nueva vendedora.md",
+    "proyectos/dreams-factory",
+    "Pasted image 20260202212222.png",
+    "Pasted image 20260202192708.png",
+    "Pasted image 20260202192442.png",
+    "Guía de estudio - Desarrollador Web Fullstack.md",
     "html_css/practical_html_css/other/Pasted image 20260131165750.png",
     "html_css/practical_html_css/10. Aspectos esenciales de SEO para Desarrolladores Web.md",
     "html_css/practical_html_css/other/Pasted image 20260131172814.png",
@@ -221,10 +225,6 @@
     "html_css/animations/aprendiendo_animaciones_by_manzdev",
     "html_css/animations",
     "html_css/practical_html_css/other/Pasted image 20251021193757.png",
-    "html_css/practical_html_css/other/Pasted image 20250907233630.png",
-    "html_css/practical_html_css/other/Pasted image 20250907220018.png",
-    "html_css/practical_html_css/other/Pasted image 20250907160015.png",
-    "fundamentos",
-    "react/react_and_react_native/other"
+    "fundamentos"
   ]
 }
